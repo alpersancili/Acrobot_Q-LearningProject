@@ -22,7 +22,7 @@ The model is saved whenever the agent surpasses its previous best performance.
 
 FILE DESCRIPTIONS
 
-acrobot_agent.py: Main script containing the Q-learning implementation.
+acrobot_q.py: Main script containing the Q-learning implementation.
 
 acrobot.pkl: Serialized Q-table saved during training.
 
